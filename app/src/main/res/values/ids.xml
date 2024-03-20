@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etNum1" type="id">etNum1</item>
+    <item name="etNum2" type="id">etNum2</item>
+    <item name="tvDisplay" type="id">tvDisplay</item>
+    <item name="btnAdd" type="id">btnAdd</item>
+    <item name="btnSub" type="id">btnSub</item>
+    <item name="btnMul" type="id">btnMul</item>
+    <item name="btnDiv" type="id">btndiv</item>
+</resources>
